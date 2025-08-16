@@ -1,5 +1,5 @@
 {
-  "name": "baileys",
+  "name": "ovl-baileys",
   "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
@@ -11,7 +11,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Ainz-devs",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
